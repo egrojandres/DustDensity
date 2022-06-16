@@ -6,4 +6,4 @@
 
 #contact us
 #Andres Barrios egrojandres@gmail.com
-#Darel Gutierrez
+#Darel Gutierrez dmgvargas94@gmail.com
